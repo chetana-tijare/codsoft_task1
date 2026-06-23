@@ -85,31 +85,31 @@ A visually appealing landing page focused on space exploration and modern web de
 
 
 ### Home Section
-![Home Section](screenshots/home.png)
+![Home Section](home.png)
 
 
 ### About Section
-![About Section](screenshots/about.png)
+![About Section](about.png)
 
 
 ### Skills Section
-![Skills Section](screenshots/skills.png)
+![Skills Section](skills.png)
 
 
 ### Achievements Section
-![Achievements Section](screenshots/achievements.png)
+![Achievements Section](achievements.png)
 
 
 ### Projects Section
-![Projects Section](screenshots/projects.png)
+![Projects Section](projects.png)
 
 
 ### Resume Section
-![Resume Section](screenshots/resume.png)
+![Resume Section](resume.png)
 
 
 ### Contact Section
-![Contact Section](screenshots/contact.png)
+![Contact Section](contact.png)
 
 
 ---
@@ -171,7 +171,7 @@ Through this project, I learned:
 
 **Project:** Personal Portfolio Website
 
-Developed as part of the Internship Task 3 submission.
+Developed as part of the Internship Task 1 submission.
 
 ---
 
