@@ -6,7 +6,7 @@
 
 **Level:** Level 1
 
-**Task:** Task 3
+**Task:** Task 1
 
 **Project Title:** Personal Portfolio Website
 
